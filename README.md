@@ -44,8 +44,7 @@ What I'm working on:
 
 ### 📊 Stats
 
-![Koriebruh's GitHub stats](https://github-readme-stats.vercel.app/api?username=koriebruh&show_icons=true&theme=gruvbox)
-
+![Koriebruh's GitHub stats](https://github-readme-stats.vercel.app/api?username=koriebruh&show_icons=true&theme=gruvbox)        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koriebruh&layout=compact&theme=gruvbox)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=koriebruh&color=brightgreen)
 
