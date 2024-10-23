@@ -5,10 +5,10 @@
 I'm a Computer Science student passionate about backend development. I enjoy building efficient, scalable applications and exploring how systems work under the hood. My current focus is on developing RESTful APIs, working with databases, and mastering backend technologies such as Golang, Gin, and GORM. I'm also learning Spring to dive deeper into enterprise-grade backend systems and exploring NoSQL databases to handle unstructured data.
 
 What I'm working on:
-🚀 Creating e-commerce APIs and microservices
-🔍 Learning about Spring Framework for enterprise applications
-💡 Exploring NoSQL databases like MongoDB and Redis
-📊 Enhancing my skills with MySQL, Elasticsearch, and Kafka
+- 🚀 Creating e-commerce APIs and microservices
+- 🔍 Learning about Spring Framework for enterprise applications
+- 💡 Exploring NoSQL databases like MongoDB and Redis
+- 📊 Enhancing my skills with MySQL, Elasticsearch, and Kafka
 
   <p align="left">
       <a href="https://www.youtube.com/c/koriebruh?sub_confirmation=1">
