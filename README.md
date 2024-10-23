@@ -43,11 +43,10 @@ What I'm working on:
 #
 
 ### 📊 Stats
+        
+![Visitor Count](https://komarev.com/ghpvc/?username=koriebruh&color=brightgreen) 
 
-![Koriebruh's GitHub stats](https://github-readme-stats.vercel.app/api?username=koriebruh&show_icons=true&theme=gruvbox)        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koriebruh&layout=compact&theme=gruvbox)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=koriebruh&color=brightgreen)
-
+![Koriebruh's GitHub stats](https://github-readme-stats.vercel.app/api?username=koriebruh&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
