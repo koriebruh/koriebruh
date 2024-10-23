@@ -47,6 +47,9 @@ What I'm working on:
 ![Koriebruh's GitHub stats](https://github-readme-stats.vercel.app/api?username=koriebruh&show_icons=true&theme=gruvbox)
 
 
+![Visitor Count](https://komarev.com/ghpvc/?username=koriebruh&color=brightgreen)
+
+
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
