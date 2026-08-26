@@ -1,56 +1,94 @@
-# 🏄‍♂️ Korie Bruh   { M. JAMALUDIN NUR }
+<div align="center">
 
-**`Digital Craftsman (Student/Developer/Creator)`**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Korie%20Bruh&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Microservices%20%C2%B7%20Go%20%C2%B7%20Spring&descSize=18&descAlignY=58&animation=fadeIn&section=header" width="100%" alt="banner" />
 
-I'm a Computer Science student passionate about backend development. I enjoy building efficient, scalable applications and exploring how systems work under the hood. My current focus is on developing RESTful APIs, working with databases, and mastering backend technologies such as Golang, Gin, and GORM. I'm also learning Spring to dive deeper into enterprise-grade backend systems and exploring NoSQL databases to handle unstructured data.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=60&lines=building+services+that+don't+wake+me+up+at+3AM;Go+%C2%B7+Spring+%C2%B7+microservices+%C2%B7+message+queues;if+it+can+break+under+load%2C+I've+load-tested+it;(still+debating+Arch+vs+Ubuntu+on+the+home+server)" alt="typing" />
 
-What I'm working on:
-- 🚀 Creating e-commerce APIs and microservices
-- 🔍 Learning about Spring Framework for enterprise applications
-- 💡 Exploring NoSQL databases like MongoDB and Redis
-- 📊 Enhancing my skills with MySQL, Elasticsearch, and Kafka
+<br>
 
-  <p align="left">
-      <a href="https://www.youtube.com/c/koriebruh?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/koriebruh">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/koriebruh?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/koriebruh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/koriebruh?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/koriebruh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
- </p>
+<img src="https://custom-icon-badges.demolab.com/github/followers/koriebruh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="followers" />
+<img src="https://custom-icon-badges.demolab.com/github/stars/koriebruh?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="total stars" />
+<img src="https://komarev.com/ghpvc/?username=koriebruh&style=for-the-badge&color=203A43&label=VISITORS" alt="visitors" />
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=4" width="100%" alt="divider" />
 
----
+</div>
 
-### 🧰 Languages and Tools
+## about me
 
-<img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Elasticsearch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" />
-<img align="left" alt="RabbitMQ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
-<img align="left" alt="Kafka" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+**M. Jamaludin Nur** — Computer Science student, backend-leaning, mostly living inside terminals and API docs.
 
+- 🔧 building RESTful APIs and microservices, mostly in **Go**
+- 📦 messages go through **Kafka**/**RabbitMQ** before I trust them
+- 🗄️ data sits in **MySQL**, gets cached in **Redis**, gets searched in **Elasticsearch**
+- ☕ picking up **Spring** to see how the enterprise side handles the same problems
+- 🧪 if a service can't survive a restart, it's not done yet
 
-<br />
+> **Focus:** e-commerce APIs and the microservices behind them — auth, catalog, orders, the boring-but-critical stuff that has to stay up.
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=4" width="100%" alt="divider" />
+</div>
 
+## languages & frameworks
 
-#
+<div align="center">
 
-### 📊 Stats
-        
-![Visitor Count](https://komarev.com/ghpvc/?username=koriebruh&color=brightgreen) 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=go,java,rust,spring,docker,github&perline=6" alt="stack" />
 
-![Koriebruh's GitHub stats](https://github-readme-stats.vercel.app/api?username=koriebruh&show_icons=true&theme=gruvbox)
+<img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+</div>
 
-#
+## data & messaging
+
+<div align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,redis,elasticsearch,kafka,rabbitmq&perline=6" alt="data" />
+
+<sub>MySQL for the source of truth, Redis when speed matters more than durability, Kafka/RabbitMQ so services don't call each other directly.</sub>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=4" width="100%" alt="divider" />
+</div>
+
+## machine
+
+```console
+jamal@dev ~ $ neofetch
+  OS       Linux
+  Focus    backend / microservices
+  Stack    Go · Spring · MySQL · Redis · Kafka
+  Shell    zsh
+  Status   currently breaking something on purpose to learn how it fails
+```
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=4" width="100%" alt="divider" />
+</div>
+
+## stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=koriebruh&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=4" width="100%" alt="divider" />
+</div>
+
+## come say hi
+
+<div align="center">
+
+<a href="https://github.com/koriebruh"><img src="https://img.shields.io/badge/GitHub-203A43?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:2C5364,50:203A43,100:0F2027&section=footer&text=thanks%20for%20stopping%20by&fontSize=24&fontColor=FFFFFF&fontAlignY=75&animation=twinkling" width="100%" alt="footer" />
+</content>
