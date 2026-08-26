@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Korie%20Bruh&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Microservices%20%C2%B7%20Go%20%C2%B7%20Spring&descSize=18&descAlignY=58&animation=fadeIn&section=header" width="100%" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=60&lines=building+services+that+don't+wake+me+up+at+3AM;Go+%C2%B7+Spring+%C2%B7+microservices+%C2%B7+message+queues;if+it+can+break+under+load%2C+I've+load-tested+it;(still+debating+Arch+vs+Ubuntu+on+the+home+server)" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=60&lines=building+services+that+don't+cark+it+at+3AM%2C+no+worries;Go+%C2%B7+Spring+%C2%B7+microservices+%C2%B7+message+queues%2C+mate;if+it+can+break+under+load%2C+I've+flogged+it+with+a+load+test;(still+reckon+about+Arch+vs+Ubuntu+on+the+home+server)" alt="typing" />
 
 <br>
 
@@ -18,13 +18,16 @@
 
 **M. Jamaludin Nur** — Computer Science student, backend-leaning, mostly living inside terminals and API docs.
 
-- 🔧 building RESTful APIs and microservices, mostly in **Go**
-- 📦 messages go through **Kafka**/**RabbitMQ** before I trust them
+- 🔧 flogging together RESTful APIs and microservices, mostly in **Go**
+- 📦 messages go through **Kafka**/**RabbitMQ** before I trust 'em, no dramas
+- 🔌 services yarn to each other over **gRPC** when REST is too slow
 - 🗄️ data sits in **MySQL**, gets cached in **Redis**, gets searched in **Elasticsearch**
-- ☕ picking up **Spring** to see how the enterprise side handles the same problems
-- 🧪 if a service can't survive a restart, it's not done yet
+- 🧵 long-running jobs get handed to **Temporal** so nothing gets lost halfway
+- 👀 keeping an eye on it all with **Prometheus**, **Grafana** and **Jaeger** — can't fix what you can't see, ay
+- ☕ having a crack at **Spring** to see how the enterprise mob does it
+- 🧪 if a service can't survive a restart, she's not done yet
 
-> **Focus:** e-commerce APIs and the microservices behind them — auth, catalog, orders, the boring-but-critical stuff that has to stay up.
+> **Focus:** e-commerce APIs and the microservices behind 'em — auth, catalog, orders, the boring-but-critical stuff that's gotta stay up, no excuses.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=4" width="100%" alt="divider" />
@@ -34,10 +37,7 @@
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=go,java,rust,spring,docker,github&perline=6" alt="stack" />
-
-<img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=go,typescript,java,rust,spring,gin,gorm,grpc,docker&perline=9" alt="stack" />
 
 </div>
 
@@ -47,7 +47,18 @@
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,redis,elasticsearch,kafka,rabbitmq&perline=6" alt="data" />
 
-<sub>MySQL for the source of truth, Redis when speed matters more than durability, Kafka/RabbitMQ so services don't call each other directly.</sub>
+<sub>MySQL for the source of truth, Redis when speed matters more than durability, Kafka/RabbitMQ so services don't yarn to each other directly.</sub>
+
+</div>
+
+## observability & workflows
+
+<div align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,jaeger,opentelemetry&perline=6" alt="observability" />
+<img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white" alt="temporal" />
+
+<sub>traces, metrics and logs so debugging in prod isn't just vibes</sub>
 
 </div>
 
@@ -57,13 +68,19 @@
 
 ## machine
 
+<div align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,fedora,github&perline=6" alt="os" />
+
+</div>
+
 ```console
 jamal@dev ~ $ neofetch
-  OS       Linux
+  OS       Fedora Linux
   Focus    backend / microservices
-  Stack    Go · Spring · MySQL · Redis · Kafka
+  Stack    Go · Spring · MySQL · Redis · Kafka · Temporal
   Shell    zsh
-  Status   currently breaking something on purpose to learn how it fails
+  Status   flat out breaking something on purpose to see how it fails
 ```
 
 <div align="center">
@@ -90,5 +107,5 @@ jamal@dev ~ $ neofetch
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:2C5364,50:203A43,100:0F2027&section=footer&text=thanks%20for%20stopping%20by&fontSize=24&fontColor=FFFFFF&fontAlignY=75&animation=twinkling" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:2C5364,50:203A43,100:0F2027&section=footer&text=cheers%20for%20stopping%20by&fontSize=24&fontColor=FFFFFF&fontAlignY=75&animation=twinkling" width="100%" alt="footer" />
 </content>
