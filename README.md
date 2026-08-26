@@ -117,7 +117,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=F5811F&center=true&vCenter=true&width=500&height=40&repeat=false&lines=cheers+for+stopping+by" alt="cheers for stopping by" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=F5811F&center=true&vCenter=true&width=500&height=40&lines=Audentes+Fortuna+Iuvat" alt="Audentes Fortuna Iuvat" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:F5811F,50:3E92CC,100:1E5F8C&section=footer&animation=twinkling" width="100%" alt="footer" />
 </content>
