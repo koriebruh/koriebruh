@@ -38,7 +38,11 @@
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=go,typescript,java,rust,spring,gin,gorm,grpc,docker&perline=9" alt="stack" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=go,typescript,java,rust,spring,gin,gorm,grpc,python,docker&perline=10" alt="stack" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,100:F76B1C&height=3" width="60%" alt="accent divider" />
+
+<sub>🐹 **Go** and **Spring** are where the muscle memory lives — everything else is backup.</sub>
 
 </div>
 
@@ -50,9 +54,11 @@
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,redis,elasticsearch,kafka,rabbitmq&perline=6" alt="data" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,clickhouse,redis,elasticsearch,kafka,rabbitmq&perline=7" alt="data" />
+<img src="https://img.shields.io/badge/Valkey-1D1D1B?style=for-the-badge&logo=redis&logoColor=white" alt="valkey" />
+<img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="minio" />
 
-<sub>PostgreSQL/MySQL for the source of truth, Redis when speed matters more than durability, Kafka/RabbitMQ so services don't yarn to each other directly.</sub>
+<sub>PostgreSQL/MySQL for the source of truth, Redis/Valkey when speed matters more than durability, ClickHouse for the analytics side, MinIO for object storage, Kafka/RabbitMQ so services don't yarn to each other directly.</sub>
 
 </div>
 
@@ -64,10 +70,17 @@
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,jaeger,opentelemetry&perline=6" alt="observability" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="prometheus" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana" />
+<img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="loki" />
+<img src="https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="tempo" />
+<img src="https://img.shields.io/badge/Alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="alloy" />
+<img src="https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaegertracing&logoColor=white" alt="jaeger" />
+<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="opentelemetry" />
 <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white" alt="temporal" />
+<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6" />
 
-<sub>traces, metrics and logs so debugging in prod isn't just vibes</sub>
+<sub>traces, metrics and logs so debugging in prod isn't just vibes — Temporal keeps the long jobs honest, k6 keeps the load tests honest.</sub>
 
 </div>
 
@@ -82,15 +95,6 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,fedora,github&perline=6" alt="os" />
 
 </div>
-
-```console
-jamal@dev ~ $ neofetch
-  OS       Fedora Linux
-  Focus    backend / microservices
-  Stack    Go · Spring · MySQL · Redis · Kafka · Temporal
-  Shell    zsh
-  Status   flat out breaking something on purpose to see how it fails
-```
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=4" width="100%" alt="divider" />
