@@ -14,7 +14,7 @@
 
 </div>
 
-## 🧑‍💻 about me
+## 【自己紹介】
 
 **JamalKya Nanami（ジャマルキャ・ナナミ）** — Computer Science student, backend-leaning, mostly living inside terminals and API docs.
 
@@ -34,7 +34,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:1A1A1A,100:C1440E&height=3" width="100%" alt="divider" />
 </div>
 
-## 🧰 languages & frameworks
+## 【言語 & フレームワーク】
 
 <div align="center">
 
@@ -48,7 +48,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:1A1A1A,100:C1440E&height=3" width="100%" alt="divider" />
 </div>
 
-## 🗄️ data & messaging
+## 【データ & メッセージング】
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:1A1A1A,100:C1440E&height=3" width="100%" alt="divider" />
 </div>
 
-## 🔭 observability & workflows
+## 【監視 & ワークフロー】
 
 <div align="center">
 
@@ -86,7 +86,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:1A1A1A,100:C1440E&height=3" width="100%" alt="divider" />
 </div>
 
-## 🖥️ machine
+## 【開発環境】
 
 <div align="center">
 
@@ -100,51 +100,20 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:1A1A1A,100:C1440E&height=3" width="100%" alt="divider" />
 </div>
 
-## 📊 stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=koriebruh&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C1440E&text_color=F5F0E6&icon_color=C1440E" alt="stats" />
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:1A1A1A,100:C1440E&height=3" width="100%" alt="divider" />
-</div>
-
-## 📄 publications
+## 【連絡先】
 
 <div align="center">
 
 <a href="https://ieeexplore.ieee.org/document/11291801"><img src="https://img.shields.io/badge/Read%20the%20Paper%20→-C1440E?style=for-the-badge&logoColor=white" alt="read the paper on IEEE Xplore" /></a>
 
-</div>
+<br><br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:1A1A1A,100:C1440E&height=3" width="100%" alt="divider" />
-</div>
-
-## 🌐 socials
-
-<div align="center">
-
+<a href="https://github.com/koriebruh"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C1440E" alt="github" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=C1440E" alt="linkedin" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=C1440E" alt="instagram" /></a>
 <a href="#"><img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=C1440E" alt="x" /></a>
 
-<sub>*(links to be filled in)*</sub>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:1A1A1A,100:C1440E&height=3" width="100%" alt="divider" />
-</div>
-
-## 💌 come say hi
-
-<div align="center">
-
-<a href="https://github.com/koriebruh"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C1440E" alt="github" /></a>
+<sub>*(socials to be filled in)*</sub>
 
 </div>
 
