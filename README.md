@@ -42,7 +42,7 @@ Computer Science student, backend-leaning, mostly living inside terminals and AP
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=go,typescript,java,rust,spring,gin,gorm,grpc,python,docker&perline=10" alt="stack" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=go,typescript,java,rust,spring,gin,gorm,grpc,python,solidity,ethereum,docker&perline=12" alt="stack" />
 
 <sub>🐹 **Go** and **Spring** are where the muscle memory lives — everything else is backup.</sub>
 
