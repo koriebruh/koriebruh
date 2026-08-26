@@ -16,7 +16,11 @@
 
 ## 【自己紹介】
 
-**JamalKya Nanami（ジャマルキャ・ナナミ）** — Computer Science student, backend-leaning, mostly living inside terminals and API docs.
+**JamalKya Nanami（ジャマルキャ・ナナミ）**
+
+*壊れないものを作る。— I build things that don't break.*
+
+Computer Science student, backend-leaning, mostly living inside terminals and API docs.
 
 - 🔧 flogging together RESTful APIs and microservices, mostly in **Go**
 - 💳 specialise in **payment systems** — reconciliation, idempotency, ledgers that gotta be right every time
