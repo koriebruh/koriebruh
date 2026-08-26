@@ -20,6 +20,10 @@
 
 *壊れないものを作る。— I build things that don't break.*
 
+<img src="https://img.shields.io/badge/Pronouns-1E5F8C?style=for-the-badge&logoColor=F5811F" alt="pronouns placeholder" /> <img src="https://img.shields.io/badge/Location%20🏳️-1E5F8C?style=for-the-badge&logoColor=F5811F" alt="location placeholder" />
+
+<sub>*(isi sendiri: ganti "Pronouns"/"Location" di badge URL di atas jadi value asli, dan 🏳️ jadi flag emoji negara)*</sub>
+
 Computer Science student, backend-leaning, mostly living inside terminals and API docs.
 
 - 🔧 flogging together RESTful APIs and microservices, mostly in **Go**
